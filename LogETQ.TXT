@@ -1,0 +1,29 @@
+-- 19/07 23:57:55:475 - SetModelo. etqZPLII
+-- 19/07 23:58:07:627 - SetModelo. etqZPLII
+-- 19/07 23:58:23:267 - SetModelo. etqZPLII
+-- 19/07 23:58:23:269 - SetModelo. etqZPLII
+-- 19/07 23:58:23:270 - SetModelo. etqZPLII
+-- 19/07 23:58:23:272 - SetModelo. etqZPLII
+-- 19/07 23:58:23:274 - SetModelo. etqZPLII
+-- 19/07 23:58:27:078 
+--------------------------------------------------------------------------------
+ATIVAR - 19/07/24 23:58:27:078 - Modelo: ZPLII - Porta: c:\temp\etq.txt - Device: BAUD=9600 DATA=8 PARITY=N STOP=1 HANDSHAKE= MAXBANDWIDTH=0 SENDBYTESCOUNT=0 SENDBYTESINTERVAL=0
+--------------------------------------------------------------------------------
+
+-- 19/07 23:58:27:079 - ImprimirTexto:  Orientacao:orNormal, Fonte:B, MultiplicadorH:5, MultiplicadorV:5, Vertical:10, Horizontal:5, Texto:BISCOITO REC 33G, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:081 - ImprimirTexto:  Orientacao:orNormal, Fonte:C, MultiplicadorH:1, MultiplicadorV:1, Vertical:40, Horizontal:5, Texto:CHOC BRANCO, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:081 - ImprimirTexto:  Orientacao:orNormal, Fonte:T, MultiplicadorH:1, MultiplicadorV:1, Vertical:84, Horizontal:5, Texto:R$ 2,89, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:082 - ImprimirBarras:  Orientacao:orNormal, TipoBarras:E, LarguraBarraLarga:2, LarguraBarraFina:2, Vertical:160, Horizontal:40, Texto:7896003701685, AlturaCodBarras:50, ExibeCodigo:becSIM
+-- 19/07 23:58:27:082 - ImprimirTexto:  Orientacao:orNormal, Fonte:B, MultiplicadorH:5, MultiplicadorV:5, Vertical:10, Horizontal:350, Texto:BISCOITO REC 33G, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:083 - ImprimirTexto:  Orientacao:orNormal, Fonte:C, MultiplicadorH:1, MultiplicadorV:1, Vertical:40, Horizontal:350, Texto:CHOC BRANCO, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:084 - ImprimirTexto:  Orientacao:orNormal, Fonte:T, MultiplicadorH:1, MultiplicadorV:1, Vertical:84, Horizontal:350, Texto:R$ 2,89, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:084 - ImprimirBarras:  Orientacao:orNormal, TipoBarras:E, LarguraBarraLarga:2, LarguraBarraFina:2, Vertical:160, Horizontal:380, Texto:7896003701685, AlturaCodBarras:50, ExibeCodigo:becSIM
+-- 19/07 23:58:27:085 - ImprimirTexto:  Orientacao:orNormal, Fonte:B, MultiplicadorH:5, MultiplicadorV:5, Vertical:10, Horizontal:700, Texto:BISCOITO REC 33G, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:085 - ImprimirTexto:  Orientacao:orNormal, Fonte:C, MultiplicadorH:1, MultiplicadorV:1, Vertical:40, Horizontal:700, Texto:CHOC BRANCO, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:086 - ImprimirTexto:  Orientacao:orNormal, Fonte:T, MultiplicadorH:1, MultiplicadorV:1, Vertical:84, Horizontal:700, Texto:R$ 2,89, SubFonte:-344003296, ImprimirReverso:True
+-- 19/07 23:58:27:086 - ImprimirBarras:  Orientacao:orNormal, TipoBarras:E, LarguraBarraLarga:2, LarguraBarraFina:2, Vertical:160, Horizontal:730, Texto:7896003701685, AlturaCodBarras:50, ExibeCodigo:becSIM
+-- 19/07 23:58:27:087 - Imprimir. Copias:1, AvancoEtq:600
+-- 19/07 23:58:27:087 - IniciarEtiqueta
+-- 19/07 23:58:27:088 - FinalizarEtiqueta: Copias:1, AvancoEtq:600
+-- 19/07 23:58:27:088 ^XA[CR][LF]^MMT[CR][LF]^MCY[CR][LF]~SD10[CR][LF]^PON[CR][LF]^CI13[CR][LF]^FO8,12^ABN,5,5^FR^FDBISCOITO REC 33G^FS[CR][LF]^FO8,47^ACN,1,1^FR^FDCHOC BRANCO^FS[CR][LF]^FO8,99^ATN,1,1^FR^FDR$ 2,89^FS[CR][LF]^FO50,189^BY2,,50^BEN,59,Y,N^FD7896003701685^FS[CR][LF]^FO416,12^ABN,5,5^FR^FDBISCOITO REC 33G^FS[CR][LF]^FO416,47^ACN,1,1^FR^FDCHOC BRANCO^FS[CR][LF]^FO416,99^ATN,1,1^FR^FDR$ 2,89^FS[CR][LF]^FO451,189^BY2,,50^BEN,59,Y,N^FD7896003701685^FS[CR][LF]^FO829,12^ABN,5,5^FR^FDBISCOITO REC 33G^FS[CR][LF]^FO829,47^ACN,1,1^FR^FDCHOC BRANCO^FS[CR][LF]^FO829,99^ATN,1,1^FR^FDR$ 2,89^FS[CR][LF]^FO865,189^BY2,,50^BEN,59,Y,N^FD7896003701685^FS[CR][LF]^PQ1[CR][LF]^XZ[CR][LF]^PH[CR][LF]^MCY[CR][LF]
+-- 19/07 23:58:27:089 DESATIVAR
